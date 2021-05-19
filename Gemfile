@@ -11,7 +11,7 @@ gem 'rails', '~> 5.2.2'
 #postgres db support
 gem 'pg', '~> 1.2', '>= 1.2.1'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 
 # user auth
 gem 'devise'
